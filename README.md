@@ -24,10 +24,8 @@ Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/IT21161056"><img src="https://github-readme-stats.vercel.app/api?username=IT21161056&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="IT21161056's GitHub stats" /></a>
+<a href="http://www.github.com/IT21161056"><img src="https://github-readme-stats.vercel.app/api?username=IT21161056&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="IT21161056's GitHub stats" /></a>
 
-<a href="http://www.github.com/IT21161056"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21161056&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/IT21161056"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21161056&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/IT21161056"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=IT21161056&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/IT21161056" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21161056&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/IT21161056" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21161056&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
