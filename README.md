@@ -29,14 +29,14 @@
 name:        Anoj Peiris
 location:    Sri Lanka 🇱🇰
 role:        Full Stack Web Developer
-learning:    [ "Next.js", "Generative AI" ]
+learning:    [ "Next.js", "Machine Learning", "Deep Learning" ]
 available:   true
 ```
 
 - 🌍 Based in **Sri Lanka**
 - 🔭 Currently exploring **Generative AI** and **Next.js**
 - 💡 Passionate about building clean, scalable web applications
-- 📬 Reach me at **p***************@gmail.com**
+- 📬 Reach me at **pieris.anojerantha@gmail.com**
 
 ---
 
