@@ -47,10 +47,8 @@ available:   true
   <img src="https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Kotlin-0f2027?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/PHP-0f2027?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/C++-0f2027?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C%23-0f2027?style=for-the-badge&logo=csharp&logoColor=9B4F96" />
+  <img src="https://img.shields.io/badge/Dart-0f2027?style=for-the-badge&logo=dart&logoColor=0175C2" />
 </p>
 
 ### 🎨 Frontend
